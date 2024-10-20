@@ -1,6 +1,6 @@
 # Google Play Store Apps Interactive Dashboard
 
-![Google Play Store Dashboard](path-to-your-image.png)
+![Google Play Store Dashboard](Play_Store_Dashboard.png)
 
 This interactive Tableau dashboard visualizes key insights from Google Play Store app data. It allows users to explore various metrics, including install counts, top-rated apps, app categories, sentiments, app sizes, and distribution of free versus paid apps.
 
